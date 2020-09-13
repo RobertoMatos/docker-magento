@@ -59,8 +59,8 @@ bin/clinotty bin/magento setup:install \
   --admin-firstname=Roberto \
   --admin-lastname=Matos \
   --admin-email=beto.ti@hotmail.com \
-  --admin-user=roberto.matos \
-  --admin-password=BRazil.123 \
+  --admin-user=admin \
+  --admin-password=admin123 \
   --language=pt_BR \
   --currency=BRL \
   --timezone=America/Sao_Paulo \
